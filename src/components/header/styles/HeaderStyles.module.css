@@ -1,5 +1,15 @@
 .MainContainer {
     width: 100%;
-    height: 10%;
     background: red;
+    height: 5%;
+}
+
+.Link {
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+
+.Link:hover {
+    color: black;
 }

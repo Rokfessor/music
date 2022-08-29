@@ -1,4 +1,6 @@
 .MainContainer{
     width: 100%;
     background: red;
+    position: absolute;
+    bottom: 0;
 }
